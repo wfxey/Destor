@@ -1,6 +1,6 @@
 <div align="center">
   
-# Destor Alpha
+# Destor Official
 
 *Continuing (https://github.com/Ivole32/Server-Builder / @ivole32)*
 
@@ -13,9 +13,9 @@
 
 </div>
 
-## Description
+## Alpha
 
-This os only the alpha channel it just contains the newest version of the progranm but isnt really released yet. Its not made for ordinary use just for developers.
+This os only the alpha channel it just contains the newest version of the program as a example.py file. Its not made for ordinary use just for developers.
 
 ## Minecraft's EULA
 
@@ -27,4 +27,4 @@ In the program itself we will ask you again if your accepting Minecraft's EULA, 
 Released under [MIT](/LICENSE) by D&I Projects ([@wfxey](https://github.com/wfxey) and [@ivole32](https://github.com/ivole32))
 
 ## Discord
-![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)
+[![Discord Banner](https://discord.com/api/guilds/1230908371490570314/widget.png?style=banner2)](https://discord.gg/mrW2b69Q9X)

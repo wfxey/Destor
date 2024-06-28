@@ -13,7 +13,7 @@
 
 ## Alpha
 
-This os only the alpha channel it just contains the newest version of the program as a example.py file. Its not made for ordinary use just for developers.
+This is only the alpha channel it just contains the newest version of the program as a example.py file. Its not made for ordinary use just for developers.
 
 ## Minecraft's EULA
 
